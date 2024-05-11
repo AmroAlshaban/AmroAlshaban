@@ -5,9 +5,8 @@
   </div>
 </div>
 
-
-<li>📊📈 Interested in Data Science and Machine Learning </li>
-<li></li>
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,sqlite,julia,sklearn,pytorch,git,c,cpp,javascript,html,css,latex,pycharm,visualstudio,vscode&theme=dark&perline=9" />
+  </a>
+</p>
