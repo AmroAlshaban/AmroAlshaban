@@ -3,7 +3,6 @@
 </div>
 
 ## Projects
-https://github.com/MathoVerse100/game_hub
 
 |Projects | Technologies | Projects | Technologies|
 |--|--|--|--|
