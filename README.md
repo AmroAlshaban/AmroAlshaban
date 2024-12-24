@@ -25,7 +25,7 @@
   <details>
     <summary><img src="https://i.ibb.co/PrDSsNK/school.png" alt="Education Icon" width="36" height="36"><h3>&nbsp;Education</h3></summary>
 
-  * <b>Bachelor</b> of Science in <b>Mathematics</b> and <b>Statistics</b>. <br><b>GPA</b>: 4.13/4.20
+  * Bachelor of Science in <b>Mathematics</b> and <b>Statistics</b>. <br><b>GPA</b>: 4.13/4.20
   * <b>Certificates:</b> [CS50 Introductionn to Programming with Python](https://i.ibb.co/x8gr202/CS50-Introduction-to-Programming-with-Python.jpg), [CS50 Introduction to Databases with SQL](https://i.ibb.co/DGQpV1f/CS50-Introduction-to-Databases-with-SQL.jpg), [2024 Tableau Certified Data Analyst Training](https://i.ibb.co/gwV1ZBK/2024-Tableau-Certified-Data-Analyst-Training.jpg).
   
   </details>
