@@ -1,6 +1,10 @@
 ![NameGIF](https://i.ibb.co/syYnyWs/TitleGIF.gif)
 
-# Hey! <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> I'm Amro Alshaban.
+<h1>Hey! <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture> I'm Amro Alshaban.</h1>
+
 
 ## Projects
 
