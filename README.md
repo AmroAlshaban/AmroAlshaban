@@ -12,7 +12,11 @@
 <details>
   <summary><img src="https://i.ibb.co/KqTX8YL/cv.png" alt="Resume Icon" width="36" height="36"><h3>&nbsp;About Me</h3></summary>
 
-  This is where my personal infomation goes.
+  This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. 
+  
+  This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. 
+  
+  This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes.
     
   | Leetcode | Stratascratch |
   |----------|---------------|
