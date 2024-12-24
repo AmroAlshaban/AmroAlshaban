@@ -5,6 +5,17 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture> I'm Amro Alshaban.</h1>
 
+<details>
+  <summary><img src="https://i.ibb.co/KqTX8YL/cv.png" alt="Resume Icon" width="36" height="36"><h3>&nbsp;About Me</h3></summary>
+
+  This is where my personal infomation goes.
+</details>
+
+<details>
+  <summary><img src="https://i.ibb.co/zfmxF3B/hobby.png" alt="Hobbies Icon" width="36" height="36"><h3>&nbsp;Other Stuff</h3></summary>
+
+  This is where my hobbies and other facets about me go.
+</details>
 
 ## Projects
 
