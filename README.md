@@ -13,14 +13,11 @@
   <summary><img src="https://i.ibb.co/KqTX8YL/cv.png" alt="Resume Icon" width="36" height="36"><h3>&nbsp;About Me</h3></summary>
 
   This is where my personal infomation goes.
-  <div align="center">
     
   | Leetcode | Stratascratch |
   |----------|---------------|
-  | ![Leetcode Stats](https://leetcard.jacoblin.cool/MathoVerse100) | <a href="https://platform.stratascratch.com/user/MathoVerse100" target="_blank"><img src="https://i.ibb.co/DW40yBY/progress.jpg" alt="Stratascratch Stats" width="600" height="200"></a> |
+  | ![Leetcode Stats](https://leetcard.jacoblin.cool/MathoVerse100) | <a href="https://platform.stratascratch.com/user/MathoVerse100"><img src="https://i.ibb.co/DW40yBY/progress.jpg" alt="Stratascratch Stats" width="600" height="200"></a> |
   
-  </div>
-
   <details>
   <summary><img src="https://i.ibb.co/WzdNpzp/project.png" alt="Projects Icon" width="36" height="36"><h3>&nbsp;Projects</h3></summary>
 
