@@ -25,7 +25,8 @@
   <details>
     <summary><img src="https://i.ibb.co/PrDSsNK/school.png" alt="Education Icon" width="36" height="36"><h3>&nbsp;Education</h3></summary>
 
-    My education details.
+  * <b>Bachelor of Science in Mathematics and Statistics. <br>GPA: 4.13/4.20
+  * <b>Certificates:</b> ![CS50 Introductionn to Programming with Python](https://i.ibb.co/x8gr202/CS50-Introduction-to-Programming-with-Python.jpg), ![CS50 Introduction to Databases with SQL](https://i.ibb.co/DGQpV1f/CS50-Introduction-to-Databases-with-SQL.jpg), ![2024 Tableau Certified Data Analyst Training](https://i.ibb.co/gwV1ZBK/2024-Tableau-Certified-Data-Analyst-Training.jpg).
   
   </details>
   
