@@ -33,22 +33,22 @@
   <details>
     <summary><img src="https://i.ibb.co/2kNp10q/competence.png" alt="Skills Icon" width="36" height="36"><h3>&nbsp;Skills</h3></summary>
 
-  ### &nbsp;&nbsp;&nbsp;Databases
+  #### &nbsp;&nbsp;&nbsp;Databases
+  ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLITE](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+  #### &nbsp;&nbsp;&nbsp;Data Tools
+  ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![TABLEAU](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![POWERBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+
+  #### &nbsp;&nbsp;&nbsp;Programming Languages
+  ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+  #### &nbsp;&nbsp;&nbsp;Data Analysis Libraries
   Badges
 
-  ### &nbsp;&nbsp;&nbsp;Data Tools
+  #### &nbsp;&nbsp;&nbsp;Web Scraping Libraries
   Badges
 
-  ### &nbsp;&nbsp;&nbsp;Programming Languages
-  Badges
-
-  ### &nbsp;&nbsp;&nbsp;Data Analysis Libraries
-  Badges
-
-  ### &nbsp;&nbsp;&nbsp;Web Scraping Libraries
-  Badges
-
-  ### &nbsp;&nbsp;&nbsp;Other
+  #### &nbsp;&nbsp;&nbsp;Other
   Badges
   
   </details>
