@@ -12,15 +12,11 @@
 <details>
   <summary><img src="https://i.ibb.co/KqTX8YL/cv.png" alt="Resume Icon" width="36" height="36"><h3>&nbsp;About Me</h3></summary>
 
-  This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. 
-  
-  This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. 
-  
-  This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes. This is where my personal infomation goes.
-    
-  | Leetcode | Stratascratch |
-  |----------|---------------|
-  | ![Leetcode Stats](https://leetcard.jacoblin.cool/MathoVerse100) | <a href="https://platform.stratascratch.com/user/MathoVerse100"><img src="https://i.ibb.co/DW40yBY/progress.jpg" alt="Stratascratch Stats" width="600" height="180"></a> |
+  I'm a Mathematics and Statistics graduate who graduated ranked 1st in my department, consistently making it to the honors list every semester. My passion for higher-level mathematics, statistics, physics, and computer science keeps me looking to learn new things and tackle complex problems.
+
+ I specialize in data analysis and programming, with strong expertise in Python (Pandas), SQL, and Excel. I’m passionate about summarizing all types of data into meaningful dashboards to uncover insights, creating statistical and mathematical models from scratch, and automating workflows with custom scripts. Whether it’s finding trends in data or solving abstract mathematical problems, I love tackling intellectual challenges head on! 
+ 
+ Currently, I’m applying for Data Analyst and Business Analyst roles, aiming to translate raw data into impactful decisions. Feel free to check out my repositories and reach out if you’d like to collaborate or share ideas!
 
   <details>
     <summary><img src="https://i.ibb.co/PrDSsNK/school.png" alt="Education Icon" width="36" height="36"><h3>&nbsp;Education</h3></summary>
