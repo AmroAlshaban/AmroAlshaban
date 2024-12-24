@@ -37,7 +37,7 @@
   ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLITE](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
   #### &nbsp;&nbsp;&nbsp;Data Tools
-  ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![POWER QUERY](https://img.shields.io/badge/POWER%20QUERY-20B2AA?style=for-the-badge&logoColor=white&labelColor=darkorange&color=darkgreen) ![TABLEAU](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![POWERBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+  ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![POWER QUERY](https://img.shields.io/badge/POWER%20QUERY-20B2AA?style=for-the-badge&logoColor=white&labelColor=darkorange&color=darkgreen) ![TABLEAU](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 
   #### &nbsp;&nbsp;&nbsp;Programming Languages
