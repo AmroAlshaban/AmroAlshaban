@@ -29,6 +29,29 @@
   * <b>Certificates:</b> [CS50 Introductionn to Programming with Python](https://i.ibb.co/x8gr202/CS50-Introduction-to-Programming-with-Python.jpg), [CS50 Introduction to Databases with SQL](https://i.ibb.co/DGQpV1f/CS50-Introduction-to-Databases-with-SQL.jpg), [2024 Tableau Certified Data Analyst Training](https://i.ibb.co/gwV1ZBK/2024-Tableau-Certified-Data-Analyst-Training.jpg).
   
   </details>
+
+  <details>
+    <summary><img src="https://i.ibb.co/2kNp10q/competence.png" alt="Skills Icon" width="36" height="36"><h3>&nbsp;Skills</h3></summary>
+
+  ### &nbsp;&nbsp;&nbsp;Databases
+  Badges
+
+  ### &nbsp;&nbsp;&nbsp;Data Tools
+  Badges
+
+  ### &nbsp;&nbsp;&nbsp;Programming Languages
+  Badges
+
+  ### &nbsp;&nbsp;&nbsp;Data Analysis Libraries
+  Badges
+
+  ### &nbsp;&nbsp;&nbsp;Web Scraping Libraries
+  Badges
+
+  ### &nbsp;&nbsp;&nbsp;Other
+  Badges
+  
+  </details>
   
   <details>
   <summary><img src="https://i.ibb.co/WzdNpzp/project.png" alt="Projects Icon" width="36" height="36"><h3>&nbsp;Projects</h3></summary>
