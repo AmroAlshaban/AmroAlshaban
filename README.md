@@ -17,7 +17,7 @@
     
   | Leetcode | Stratascratch |
   |----------|---------------|
-  | ![Leetcode Stats](https://leetcard.jacoblin.cool/MathoVerse100) | <a href="https://platform.stratascratch.com/user/MathoVerse100"><img src="https://i.ibb.co/DW40yBY/progress.jpg" alt="Stratascratch Stats" width="600" height="200"></a> |
+  | ![Leetcode Stats](https://leetcard.jacoblin.cool/MathoVerse100) | <a href="https://platform.stratascratch.com/user/MathoVerse100" target="_blank"><img src="https://i.ibb.co/DW40yBY/progress.jpg" alt="Stratascratch Stats" width="600" height="200"></a> |
   
   </div>
 
