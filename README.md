@@ -57,7 +57,7 @@
   * Performed extensive data cleaning and preprocessing to separate seasonality and trends, preparing the dataset for time series analysis and predictive modeling.
   * Built and optimized a SARIMAX model to forecast temperature deviations, then utilized the model to forecast weather conditions up to 16 months ahead, achieving an $R^2$ score of 96%.
 
-  ## Coffee Sales Analysis and Visualization
+  ## [Coffee Sales Analysis and Visualization](https://github.com/MathoVerse100/Coffee-Sales-Analysis-and-Visualization)
   ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![TABLEAU](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
   * Cleaned and preprocessed data from multiple Excel tables, using VLOOKUPs and INDEX MATCH to merge them into a single, comprehensive dataset.
