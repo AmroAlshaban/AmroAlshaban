@@ -4,10 +4,7 @@
 
 <hr>
 
-<h1>Hey! <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
-  <img src="https://i.ibb.co/LSj4gqy/hand-waving-hand.gif" alt="👋" width="32" height="32">
-</picture> I'm Amro Alshaban.</h1>
+<h1>Hey! 👋 I'm Amro Alshaban.</h1>
 
 <details>
   <summary><img src="https://i.ibb.co/KqTX8YL/cv.png" alt="Resume Icon" width="36" height="36"><h3>&nbsp;About Me</h3></summary>
