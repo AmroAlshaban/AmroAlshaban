@@ -58,7 +58,7 @@
 
   * Scraped and processed hourly temperature data from over 8,500 web pages, spanning 20+ years, using dynamic Python scripts to collect and organize data into a unified pandas DataFrame.
   * Performed extensive data cleaning and preprocessing to separate seasonality and trends, preparing the dataset for time series analysis and predictive modeling.
-  * Built and optimized a SARIMAX model to forecast temperature deviations, leveraging statistical expertise to ensure accurate and meaningful predictions.
+  * Built and optimized a SARIMAX model to forecast temperature deviations, then utilized the model to forecast weather conditions up to 16 months ahead, achieving an $R^2$ score of 95%.
 
   ## [Windows-Calculator-Clone](https://github.com/MathoVerse100/odin-calculator)
   
