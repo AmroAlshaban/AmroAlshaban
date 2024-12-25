@@ -109,6 +109,6 @@
 <details>
   <summary><img src="https://i.ibb.co/zfmxF3B/hobby.png" alt="Hobbies Icon" width="36" height="36"><h3>&nbsp;Other Stuff</h3></summary>
 
-  ### Under Construction 🔨🏗️🚧
+  #### Under Construction 🔨🏗️🚧
 
 </details>
