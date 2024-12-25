@@ -68,12 +68,11 @@
 
   * Designed an advanced dynamic KPI dashboard in Tableau to visualize key retail sales metrics, incorporating interactive filters, drill-down capabilities, and intuitive visualizations.
 
-  ## Excel Tic-Tac-Toe Game
+  ## [Excel Tic-Tac-Toe Game](https://github.com/MathoVerse100/Excel-Tic-Tac-Toe)
   ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-green?style=for-the-badge)
 
-  * Detail 1
-  * Detail 2
-  * Detail 3
+  * Built a Tic Tac Toe game in Excel using VBA, with dynamic board creation and automated gameplay logic.
+  * Programmed functions to handle player inputs, validate game states, and display results directly in Excel.
   
   ## [Windows-Calculator-Clone](https://github.com/MathoVerse100/odin-calculator)
   
