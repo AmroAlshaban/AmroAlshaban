@@ -68,13 +68,6 @@
   * Description 2
   * Description 3
 
-  ## [Game-Hub](https://github.com/MathoVerse100/game_hub)
-  ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-
-  * Description 1
-  * Description 2
-  * Description 3
-
   ## [Odin-Tic-Tac-Toe](https://github.com/MathoVerse100/odin-Tic-Tac-Toe?tab=readme-ov-file)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
