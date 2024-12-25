@@ -40,7 +40,7 @@
   ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-green?style=for-the-badge) ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![RUBY](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
   #### &nbsp;&nbsp;&nbsp;Data Analysis Libraries
-  ![NUMPY](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![SCIPY](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white) ![PLOTLY](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%FFC0CB.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![NUMPY](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![SCIPY](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white) ![PLOTLY](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) ![MATPLOTLIB](https://img.shields.io/badge/Matplotlib-%FFC0CB.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
   #### &nbsp;&nbsp;&nbsp;Web Scraping Libraries
   ![Badges](https://img.shields.io/badge/BEAUTIFULSOUP4-60A839?style=for-the-badge&logoColor=white)
@@ -52,6 +52,13 @@
   
   <details>
   <summary><img src="https://i.ibb.co/WzdNpzp/project.png" alt="Projects Icon" width="36" height="36"><h3>&nbsp;Projects</h3></summary>
+
+  ## [Monthly-Weather-Forecasting-in-Jordan](https://github.com/MathoVerse100/Monthly-Weather-Forecasting-in-Jordan)
+  ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![NUMPY](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![MATPLOTLIB](https://img.shields.io/badge/Matplotlib-%FFC0CB.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![STATSMODELS](https://img.shields.io/badge/Statsmodels-ed07d8.svg?style=for-the-badge&logoColor=black) 
+
+  * Scraped and processed hourly temperature data from over 8,500 web pages, spanning 20+ years, using dynamic Python scripts to collect and organize data into a unified pandas DataFrame.
+  * Performed extensive data cleaning and preprocessing to separate seasonality and trends, preparing the dataset for time series analysis and predictive modeling.
+  * Built and optimized a SARIMAX model to forecast temperature deviations, leveraging statistical expertise to ensure accurate and meaningful predictions.
 
   ## [Windows-Calculator-Clone](https://github.com/MathoVerse100/odin-calculator)
   
