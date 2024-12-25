@@ -12,7 +12,7 @@
 <details>
   <summary><img src="https://i.ibb.co/KqTX8YL/cv.png" alt="Resume Icon" width="36" height="36"><h3>&nbsp;About Me</h3></summary>
 
-  I'm a Mathematics and Statistics graduate who graduated ranked 1st in my department, consistently making it to the honors list every semester. My passion for higher-level mathematics, statistics, physics, and computer science drives me to learn new things and tackle complex problems.
+  I'm a Mathematics and Statistics graduate who graduated with a distinction in my department, consistently making it to the honors list every semester. My passion for higher-level mathematics, statistics, physics, and computer science drives me to learn new things and tackle complex problems.
 
  I specialize in data analysis and programming, with strong expertise in Python (Pandas), SQL, and Excel. I’m passionate about summarizing all types of data into meaningful dashboards to uncover insights, creating statistical and mathematical models from scratch, and automating workflows with custom scripts. Whether it’s finding trends in data or solving abstract mathematical problems, I love tackling intellectual challenges head on! 
  
@@ -72,56 +72,12 @@
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
   * Developed a Tic Tac Toe game with singleplayer and multiplayer modes, providing both player-vs-player and player-vs-computer gameplay.
-  * Implemented the Minimax algorithm from scratch in JavaScript to ensure optimal moves for the computer in singleplayer mode, without referencing pseudo-code or using external libraries.
+  * Implemented the Minimax algorithm from scratch in JavaScript to ensure optimal moves for the computer in singleplayer mode, without using external libraries.
 
   ## [Odin-Library](https://github.com/MathoVerse100/odin-library)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-  * Description 1
-  * Description 2
-  * Description 3
-
-  ## [Odin-Admin-Dashoard](https://github.com/MathoVerse100/odin-admin-dashboard)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-  * Description 1
-  * Description 2
-  * Description 3
-
-  ## [Odin-Sign-Up-Form](https://github.com/MathoVerse100/odin-sign-up-form)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-  * Description 1
-  * Description 2
-  * Description 3
-
-  ## [Odin-Etch-A-Sketch](https://github.com/MathoVerse100/odin-etch-a-sketch)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-  * Description 1
-  * Description 2
-  * Description 3
-
-  ## [Odin-Rock-Paper-Scissors](https://github.com/MathoVerse100/odin-rock-paper-scissors)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-  * Description 1
-  * Description 2
-  * Description 3
-
-  ## [Odin-Landing-Page](https://github.com/MathoVerse100/odin-landing-page)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-  * Description 1
-  * Description 2
-  * Description 3
-
-  ## [Odin-Recipies](https://github.com/MathoVerse100/odin-recipes)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-  * Description 1
-  * Description 2
-  * Description 3
+  * Built a library app that stores information on books that the user completed or didn't.
 
 </details>
 
