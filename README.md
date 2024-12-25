@@ -63,10 +63,17 @@
   * Cleaned and preprocessed data from multiple Excel tables, using VLOOKUPs and INDEX MATCH to merge them into a single, comprehensive dataset.
   * Created an interactive Tableau dashboard to visualize total sales and profit across countries, customers, and months, with dynamic filters for user customization.
   
-  ## Sales Dashboard Practice - KPI Analysis and Visualization
+  ## [Sales Dashboard Practice - KPI Analysis and Visualization](https://github.com/MathoVerse100/Sales-Dashboard-Practice---KPI-Analysis-and-Visualization)
   ![TABLEAU](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
   * Designed an advanced dynamic KPI dashboard in Tableau to visualize key retail sales metrics, incorporating interactive filters, drill-down capabilities, and intuitive visualizations.
+
+  ## Excel Tic-Tac-Toe Game
+  ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-green?style=for-the-badge)
+
+  * Detail 1
+  * Detail 2
+  * Detail 3
   
   ## [Windows-Calculator-Clone](https://github.com/MathoVerse100/odin-calculator)
   
