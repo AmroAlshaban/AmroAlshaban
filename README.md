@@ -71,9 +71,8 @@
   ## [Odin-Tic-Tac-Toe](https://github.com/MathoVerse100/odin-Tic-Tac-Toe?tab=readme-ov-file)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-  * Description 1
-  * Description 2
-  * Description 3
+  * Developed a Tic Tac Toe game with singleplayer and multiplayer modes, providing both player-vs-player and player-vs-computer gameplay.
+  * Implemented the Minimax algorithm from scratch in JavaScript to ensure optimal moves for the computer in singleplayer mode, without referencing pseudo-code or using external libraries.
 
   ## [Odin-Library](https://github.com/MathoVerse100/odin-library)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
