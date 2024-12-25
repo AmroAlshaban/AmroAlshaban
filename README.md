@@ -57,9 +57,9 @@
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
-  * Description 1
-  * Description 2
-  * Description 3
+  * Developed a responsive calculator clone inspired by the Windows calculator, supporting standard and scientific modes with integer and float operations.
+  * Implemented the Shunting Yard algorithm from scratch to handle complex order precedence, including brackets and incomplete user input corrections.
+  * Enhanced usability with features like keyboard support, a history log for retrieving past calculations, and automated input validation.
 
   ## [Multi-Page-Restaurant-Website](https://github.com/MathoVerse100/Odin-Restaurant-Page/tree/main)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
