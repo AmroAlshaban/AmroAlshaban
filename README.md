@@ -50,7 +50,7 @@
   <details>
   <summary><img src="https://i.ibb.co/WzdNpzp/project.png" alt="Projects Icon" width="36" height="36"><h3>&nbsp;Projects</h3></summary>
 
-  ## [Monthly-Weather-Forecasting-in-Jordan](https://github.com/MathoVerse100/Monthly-Weather-Forecasting-in-Jordan)
+  ## [Monthly Weather Forecasting in Jordan](https://github.com/MathoVerse100/Monthly-Weather-Forecasting-in-Jordan)
   ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![NUMPY](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![MATPLOTLIB](https://img.shields.io/badge/Matplotlib-%FFC0CB.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![STATSMODELS](https://img.shields.io/badge/Statsmodels-ed07d8.svg?style=for-the-badge&logoColor=black) 
 
   * Scraped and processed hourly temperature data from over 8,500 web pages, spanning 20+ years, using dynamic Python scripts to collect and organize data into a unified pandas DataFrame.
