@@ -57,6 +57,13 @@
   * Performed extensive data cleaning and preprocessing to separate seasonality and trends, preparing the dataset for time series analysis and predictive modeling.
   * Built and optimized a SARIMAX model to forecast temperature deviations, then utilized the model to forecast weather conditions up to 16 months ahead, achieving an $R^2$ score of 96%.
 
+  ## [LinkedIn Job Postings Analysis and Visualization](https://github.com/MathoVerse100/LinkedIn-Job-Posts-Analysis)
+   ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![NUMPY](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![TABLEAU](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+   * Cleaned and preprocessed a dataset of 27,972 job postings by removing null values, correcting formatting issues, and standardizing text fields (e.g., seniority level, employment type) to ensure data consistency.
+   * Integrated and analyzed global job posting data alongside world city data, using regular expressions to identify job locations and segment postings by country for deeper insights.
+   * Developed an interactive Tableau dashboard with filters to explore job posting trends by location, seniority level, and employment type, enabling customizable data visualization.
+
   ## [Coffee Sales Analysis and Visualization](https://github.com/MathoVerse100/Coffee-Sales-Analysis-and-Visualization)
   ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![TABLEAU](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
