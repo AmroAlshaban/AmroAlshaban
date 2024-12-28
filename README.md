@@ -69,6 +69,12 @@
 
   * Cleaned and preprocessed data from multiple Excel tables, using VLOOKUPs and INDEX MATCH to merge them into a single, comprehensive dataset.
   * Created an interactive Tableau dashboard to visualize total sales and profit across countries, customers, and months, with dynamic filters for user customization.
+
+  ## [Demographic Factors Impact on Color Perception Analysis](https://github.com/MathoVerse100/Demographic-Factors-Impact-on-Color-Perception-Analysis)
+  ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+  * Analyzed data patterns, variability, and group interactions using normality (Shapiro-Wilk), equal-variances (Levene), and outlier tests (Grubb’s, Dixon’s Q), accompanied by visualizations.
+  * Applied Balanced Two-Way ANOVA and Tukey Pairwise Comparison to identify significant interactions between factors and draw conclusions.
   
   ## [Sales Dashboard Practice - KPI Analysis and Visualization](https://github.com/MathoVerse100/Sales-Dashboard-Practice---KPI-Analysis-and-Visualization)
   ![TABLEAU](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
