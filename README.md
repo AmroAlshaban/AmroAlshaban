@@ -13,7 +13,7 @@
 
  I specialize in data analysis and programming, with strong expertise in Python (Pandas), SQL, and Excel. I’m passionate about summarizing all types of data into meaningful dashboards to uncover insights, creating statistical and mathematical models from scratch, and automating workflows with custom scripts. Whether it’s finding trends in data or solving abstract mathematical problems, I love tackling intellectual challenges head on! 
  
- Currently, I’m applying for Data Analyst and Business Analyst roles. Feel free to check out my repositories and reach out if you’d like to collaborate or share ideas! 😊
+Feel free to check out my repositories and reach out if you’d like to collaborate or share ideas! 😊
 
   <details>
     <summary><img src="https://i.ibb.co/PrDSsNK/school.png" alt="Education Icon" width="36" height="36"><h3>&nbsp;Education</h3></summary>
