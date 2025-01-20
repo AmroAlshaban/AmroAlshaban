@@ -46,27 +46,27 @@
   <details>
   <summary><img src="https://i.ibb.co/WzdNpzp/project.png" alt="Projects Icon" width="36" height="36"><h3>&nbsp;Projects</h3></summary>
 
-  ## [Monthly Weather Forecasting](https://github.com/MathoVerse100/Monthly-Weather-Forecasting)
+  ## [Monthly Weather Forecasting](https://github.com/AmroAlshaban/Monthly-Weather-Forecasting)
   ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![NUMPY](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![MATPLOTLIB](https://img.shields.io/badge/Matplotlib-%FFC0CB.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![STATSMODELS](https://img.shields.io/badge/Statsmodels-ed07d8.svg?style=for-the-badge&logoColor=black) 
 
   * Scraped and processed hourly temperature data from over 8,500 web pages, spanning 20+ years, using dynamic Python scripts to collect and organize data into a unified pandas DataFrame.
   * Performed extensive data cleaning and preprocessing to separate seasonality and trends, preparing the dataset for time series analysis and predictive modeling.
   * Built and optimized a SARIMAX model to forecast temperature deviations, then utilized the model to forecast weather conditions up to 16 months ahead, achieving an $R^2$ score of 96%.
 
-  ## [LinkedIn Job Postings Analysis and Visualization](https://github.com/MathoVerse100/LinkedIn-Job-Posts-Analysis)
+  ## [LinkedIn Job Postings Analysis and Visualization](https://github.com/AmroAlshaban/LinkedIn-Job-Posts-Analysis)
    ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![NUMPY](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![TABLEAU](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
    * Cleaned and preprocessed a dataset of 27,972 job postings by removing null values, correcting formatting issues, and standardizing text fields (e.g., seniority level, employment type) to ensure data consistency.
    * Integrated and analyzed global job posting data alongside world city data, using regular expressions to identify job locations and segment postings by country for deeper insights.
    * Developed an interactive Tableau dashboard with filters to explore job posting trends by location, seniority level, and employment type, enabling customizable data visualization.
 
-  ## [Coffee Sales Analysis and Visualization](https://github.com/MathoVerse100/Coffee-Sales-Analysis-and-Visualization)
+  ## [Coffee Sales Analysis and Visualization](https://github.com/AmroAlshaban/Coffee-Sales-Analysis-and-Visualization)
   ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![TABLEAU](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
   * Cleaned and preprocessed data from multiple Excel tables, using VLOOKUPs and INDEX MATCH to merge them into a single, comprehensive dataset.
   * Created an interactive Tableau dashboard to visualize total sales and profit across countries, customers, and months, with dynamic filters for user customization.
 
-  ## [Demographic Factors Impact on Color Perception Analysis](https://github.com/MathoVerse100/Demographic-Factors-Impact-on-Color-Perception-Analysis)
+  ## [Demographic Factors Impact on Color Perception Analysis](https://github.com/AmroAlshaban/Demographic-Factors-Impact-on-Color-Perception-Analysis)
   ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
   * Analyzed data patterns, variability, and group interactions using normality (Shapiro-Wilk), equal-variances (Levene), and outlier tests (Grubb’s, Dixon’s Q), accompanied by visualizations.
@@ -77,13 +77,13 @@
 
   * Designed an advanced dynamic KPI dashboard in Tableau to visualize key retail sales metrics, incorporating interactive filters, drill-down capabilities, and intuitive visualizations.
 
-  ## [Excel Tic-Tac-Toe Game](https://github.com/MathoVerse100/Excel-Tic-Tac-Toe)
+  ## [Excel Tic-Tac-Toe Game](https://github.com/AmroAlshaban/Excel-Tic-Tac-Toe)
   ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-green?style=for-the-badge)
 
   * Built a Tic Tac Toe game in Excel using VBA, with dynamic board creation and automated gameplay logic.
   * Programmed functions to handle player inputs, validate game states, and display results directly in Excel.
   
-  ## [Windows-Calculator-Clone](https://github.com/MathoVerse100/odin-calculator)
+  ## [Windows-Calculator-Clone](https://github.com/AmroAlshaban/odin-calculator)
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
@@ -91,20 +91,20 @@
   * Implemented the Shunting Yard algorithm from scratch to handle complex order precedence, including brackets and incomplete user input corrections.
   * Enhanced usability with features like keyboard support, a history log for retrieving past calculations, and automated input validation.
 
-  ## [Multi-Page-Restaurant-Website](https://github.com/MathoVerse100/Odin-Restaurant-Page/tree/main)
+  ## [Multi-Page-Restaurant-Website](https://github.com/AmroAlshaban/Odin-Restaurant-Page/tree/main)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![BASH](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
   * Built a dynamic, multi-page restaurant application with multiple tabs, emphasizing maintainability and scalability through modular code design.
   * Automated the setup process with a custom Bash script that generates all necessary webpack configurations, including file creation, parser installations, and JSON configuration writing, in a single command.
   * Designed the app to dynamically generate HTML content using JavaScript scripts without relying on external libraries.
 
-  ## [Odin-Tic-Tac-Toe](https://github.com/MathoVerse100/odin-Tic-Tac-Toe?tab=readme-ov-file)
+  ## [Odin-Tic-Tac-Toe](https://github.com/AmroAlshaban/odin-Tic-Tac-Toe?tab=readme-ov-file)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
   * Developed a Tic Tac Toe game with singleplayer and multiplayer modes, providing both player-vs-player and player-vs-computer gameplay.
   * Implemented the Minimax algorithm from scratch in JavaScript to ensure optimal moves for the computer in singleplayer mode, without using external libraries.
 
-  ## [Odin-Library](https://github.com/MathoVerse100/odin-library)
+  ## [Odin-Library](https://github.com/AmroAlshaban/odin-library)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
   * Built a library app to store information about books the user has completed or not yet read.
