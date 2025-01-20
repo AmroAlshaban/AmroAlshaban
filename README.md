@@ -1,19 +1,15 @@
-<hr>
+<!-- <hr>
 
 ![NameGIF](https://i.ibb.co/syYnyWs/TitleGIF.gif)
 
-<hr>
+<hr> -->
 
 <h1>Hey! 👋 I'm Amro Alshaban.</h1>
 
 <details>
   <summary><img src="https://i.ibb.co/KqTX8YL/cv.png" alt="Resume Icon" width="36" height="36"><h3>&nbsp;About Me</h3></summary>
-
-  I'm a Mathematics and Statistics graduate who graduated with a distinction in my department, consistently making it to the honors list every semester. My passion for higher-level mathematics, statistics, physics, and computer science drives me to learn new things and tackle complex problems.
-
- I specialize in data analysis and programming, with strong expertise in Python (Pandas), SQL, and Excel. I’m passionate about summarizing all types of data into meaningful dashboards to uncover insights, creating statistical and mathematical models from scratch, and automating workflows with custom scripts. Whether it’s finding trends in data or solving abstract mathematical problems, I love tackling intellectual challenges head on! 
- 
-Feel free to check out my repositories and reach out if you’d like to collaborate or share ideas! 😊
+<!-- graduated with a distinction in my department, consistently making it to the honors list every semester -->
+  I am in LOVE with Mathematics, Statistics and Physics, and  I have recently fallen for Software Engineering and Computer Science. Discovering these vast territories known as SE and CS is one of the best things that has ever happened to me. If you have ideas, want to chat, or collaborate, notify me so we can nerd the hell out to our heart's content!
 
   <details>
     <summary><img src="https://i.ibb.co/PrDSsNK/school.png" alt="Education Icon" width="36" height="36"><h3>&nbsp;Education</h3></summary>
@@ -50,7 +46,7 @@ Feel free to check out my repositories and reach out if you’d like to collabor
   <details>
   <summary><img src="https://i.ibb.co/WzdNpzp/project.png" alt="Projects Icon" width="36" height="36"><h3>&nbsp;Projects</h3></summary>
 
-  ## [Monthly Weather Forecasting in Jordan](https://github.com/MathoVerse100/Monthly-Weather-Forecasting-in-Jordan)
+  ## [Monthly Weather Forecasting](https://github.com/MathoVerse100/Monthly-Weather-Forecasting-in-Jordan)
   ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![NUMPY](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![MATPLOTLIB](https://img.shields.io/badge/Matplotlib-%FFC0CB.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![STATSMODELS](https://img.shields.io/badge/Statsmodels-ed07d8.svg?style=for-the-badge&logoColor=black) 
 
   * Scraped and processed hourly temperature data from over 8,500 web pages, spanning 20+ years, using dynamic Python scripts to collect and organize data into a unified pandas DataFrame.
