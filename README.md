@@ -98,7 +98,7 @@
   * Automated the setup process with a custom Bash script that generates all necessary webpack configurations, including file creation, parser installations, and JSON configuration writing, in a single command.
   * Designed the app to dynamically generate HTML content using JavaScript scripts without relying on external libraries.
 
-  ## [Odin-Tic-Tac-Toe](https://github.com/AmroAlshaban/odin-Tic-Tac-Toe?tab=readme-ov-file)
+  ## [Odin-Tic-Tac-Toe](https://github.com/AmroAlshaban/odin-Tic-Tac-Toe)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
   * Developed a Tic Tac Toe game with singleplayer and multiplayer modes, providing both player-vs-player and player-vs-computer gameplay.
